@@ -2,11 +2,7 @@
 
 This is my submission for the **Full Stack Developer Internship – Round 1 Task**.
 
-## 🔗 Live Demo
 
-- (Replace these with your live links)
-  - Frontend: https://your-frontend-link.vercel.app
-  - Backend: https://your-backend-link.onrender.com
 
 ## 📁 Project Structure
 
@@ -16,9 +12,7 @@ fundraising-portal/
 ├── frontend/    # React frontend using Vite
 ```
 
-## 📸 Screenshots
 
-(Add screenshots of your dashboard, rewards section, leaderboard)
 
 ## 🚀 How to Run Locally
 
